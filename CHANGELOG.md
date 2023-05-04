@@ -1,3 +1,195 @@
+## <small>5.0.267 (2023-05-03)</small>
+
+* chore(axo): Remove AXO (#2153) ([6209c4f](https://github.com/paypal/paypal-checkout-components/commit/6209c4f)), closes [#2153](https://github.com/paypal/paypal-checkout-components/issues/2153)
+
+
+
+## <small>5.0.266 (2023-04-26)</small>
+
+* mark card button ineligible when using card-fields (#2150) ([9c40f07](https://github.com/paypal/paypal-checkout-components/commit/9c40f07)), closes [#2150](https://github.com/paypal/paypal-checkout-components/issues/2150)
+
+
+
+## <small>5.0.265 (2023-04-12)</small>
+
+* chore: remove __FUNDING_ELIGIBILITY__ global (#2144) ([ef9240d](https://github.com/paypal/paypal-checkout-components/commit/ef9240d)), closes [#2144](https://github.com/paypal/paypal-checkout-components/issues/2144)
+
+
+
+## <small>5.0.264 (2023-04-05)</small>
+
+* removing deprecated apm (#2127) ([700e74a](https://github.com/paypal/paypal-checkout-components/commit/700e74a)), closes [#2127](https://github.com/paypal/paypal-checkout-components/issues/2127)
+
+
+
+## <small>5.0.263 (2023-03-30)</small>
+
+* remove protected export from hcf (#2143) ([ba6ec80](https://github.com/paypal/paypal-checkout-components/commit/ba6ec80)), closes [#2143](https://github.com/paypal/paypal-checkout-components/issues/2143)
+
+
+
+## <small>5.0.262 (2023-03-29)</small>
+
+* chore(release): 5.0.261 🎉 ([1d6b7a1](https://github.com/paypal/paypal-checkout-components/commit/1d6b7a1))
+
+
+
+## <small>5.0.261 (2023-03-29)</small>
+
+* add VwoP check for WalletLabel (#2141) ([8aacaa0](https://github.com/paypal/paypal-checkout-components/commit/8aacaa0)), closes [#2141](https://github.com/paypal/paypal-checkout-components/issues/2141)
+
+
+
+## <small>5.0.260 (2023-03-15)</small>
+
+* chore(release): 5.0.259 🎉 ([92416e8](https://github.com/paypal/paypal-checkout-components/commit/92416e8))
+
+
+
+## <small>5.0.259 (2023-03-15)</small>
+
+* Adding onError callback for Hosted Card Fields. (#2138) ([e605a59](https://github.com/paypal/paypal-checkout-components/commit/e605a59)), closes [#2138](https://github.com/paypal/paypal-checkout-components/issues/2138)
+
+
+
+## <small>5.0.258 (2023-03-08)</small>
+
+* Vault Without Purchase PayPal Button (#2121) ([358c9aa](https://github.com/paypal/paypal-checkout-components/commit/358c9aa)), closes [#2121](https://github.com/paypal/paypal-checkout-components/issues/2121)
+
+
+
+## <small>5.0.257 (2023-03-07)</small>
+
+* Harden logos implementation for supporting both external and inline images (#2115) ([15904a0](https://github.com/paypal/paypal-checkout-components/commit/15904a0)), closes [#2115](https://github.com/paypal/paypal-checkout-components/issues/2115)
+
+
+
+## <small>5.0.256 (2023-03-01)</small>
+
+* chore: pin version of percy cli (#2113) ([8f4ff5f](https://github.com/paypal/paypal-checkout-components/commit/8f4ff5f)), closes [#2113](https://github.com/paypal/paypal-checkout-components/issues/2113)
+
+
+
+## <small>5.0.255 (2023-02-22)</small>
+
+* feat: Adding paidy as APM. (#2037) ([51dc37a](https://github.com/paypal/paypal-checkout-components/commit/51dc37a)), closes [#2037](https://github.com/paypal/paypal-checkout-components/issues/2037)
+
+
+
+## <small>5.0.254 (2023-02-15)</small>
+
+* fix save prop on CardFields (#2101) ([3f1fbc9](https://github.com/paypal/paypal-checkout-components/commit/3f1fbc9)), closes [#2101](https://github.com/paypal/paypal-checkout-components/issues/2101)
+
+
+
+## <small>5.0.253 (2023-02-15)</small>
+
+* update SDK Bank logo (#2100) ([8feef3b](https://github.com/paypal/paypal-checkout-components/commit/8feef3b)), closes [#2100](https://github.com/paypal/paypal-checkout-components/issues/2100)
+
+
+
+## <small>5.0.252 (2023-02-08)</small>
+
+* chore: create logo experiment (#2080) ([5c04118](https://github.com/paypal/paypal-checkout-components/commit/5c04118)), closes [#2080](https://github.com/paypal/paypal-checkout-components/issues/2080)
+
+
+
+## <small>5.0.251 (2023-01-24)</small>
+
+* tweaks for save action (#2074) ([e0ebe6e](https://github.com/paypal/paypal-checkout-components/commit/e0ebe6e)), closes [#2074](https://github.com/paypal/paypal-checkout-components/issues/2074)
+
+
+
+## <small>5.0.250 (2023-01-19)</small>
+
+* fix(applepay): Supress ApplePay Button from SPB when User adds standalone (#2071) ([931dc3f](https://github.com/paypal/paypal-checkout-components/commit/931dc3f)), closes [#2071](https://github.com/paypal/paypal-checkout-components/issues/2071)
+
+
+
+## <small>5.0.249 (2023-01-17)</small>
+
+* feat: support >= 250px button widths for PPoF (#2072) ([0b4b5b3](https://github.com/paypal/paypal-checkout-components/commit/0b4b5b3)), closes [#2072](https://github.com/paypal/paypal-checkout-components/issues/2072)
+
+
+
+## <small>5.0.248 (2023-01-11)</small>
+
+* Add InputEvents Callbacks to Hosted Card Fields (#2059) ([ac37e88](https://github.com/paypal/paypal-checkout-components/commit/ac37e88)), closes [#2059](https://github.com/paypal/paypal-checkout-components/issues/2059)
+
+
+
+## <small>5.0.247 (2022-12-19)</small>
+
+* chore(release): 5.0.246 🎉 ([5bc10aa](https://github.com/paypal/paypal-checkout-components/commit/5bc10aa))
+
+
+
+## <small>5.0.246 (2022-12-19)</small>
+
+* Merge Multi Card Field Feature Branch into Main Branch (#2043) ([a8e0932](https://github.com/paypal/paypal-checkout-components/commit/a8e0932)), closes [#2043](https://github.com/paypal/paypal-checkout-components/issues/2043) [#1967](https://github.com/paypal/paypal-checkout-components/issues/1967) [#1978](https://github.com/paypal/paypal-checkout-components/issues/1978) [#1987](https://github.com/paypal/paypal-checkout-components/issues/1987) [#2007](https://github.com/paypal/paypal-checkout-components/issues/2007) [#2027](https://github.com/paypal/paypal-checkout-components/issues/2027) [#2033](https://github.com/paypal/paypal-checkout-components/issues/2033)
+
+
+
+## <small>5.0.245 (2022-12-07)</small>
+
+* PPoF Render Logic (#2038) ([eae443c](https://github.com/paypal/paypal-checkout-components/commit/eae443c)), closes [#2038](https://github.com/paypal/paypal-checkout-components/issues/2038)
+
+
+
+## <small>5.0.244 (2022-11-09)</small>
+
+* Disable vaulted card menu for token type (#2029) ([0b2c88a](https://github.com/paypal/paypal-checkout-components/commit/0b2c88a)), closes [#2029](https://github.com/paypal/paypal-checkout-components/issues/2029)
+
+
+
+## <small>5.0.243 (2022-11-09)</small>
+
+* feat: add new funding source satispay (#2020) ([efe0df2](https://github.com/paypal/paypal-checkout-components/commit/efe0df2)), closes [#2020](https://github.com/paypal/paypal-checkout-components/issues/2020)
+
+
+
+## <small>5.0.242 (2022-11-09)</small>
+
+* feat: add new prop for passing hostname to fraudnet (#2028) ([c244835](https://github.com/paypal/paypal-checkout-components/commit/c244835)), closes [#2028](https://github.com/paypal/paypal-checkout-components/issues/2028)
+
+
+
+## <small>5.0.241 (2022-10-26)</small>
+
+* chore(release): 5.0.240 🎉 ([1b80daf](https://github.com/paypal/paypal-checkout-components/commit/1b80daf))
+
+
+
+## <small>5.0.240 (2022-10-26)</small>
+
+* chore(release): 5.0.239 🎉 ([9c0c083](https://github.com/paypal/paypal-checkout-components/commit/9c0c083))
+
+
+
+## <small>5.0.239 (2022-10-12)</small>
+
+* chore(release): 5.0.238 🎉 ([d3a9162](https://github.com/paypal/paypal-checkout-components/commit/d3a9162))
+
+
+
+## <small>5.0.238 (2022-10-03)</small>
+
+* Update APM buttons with new default colors (#1989) ([82777ad](https://github.com/paypal/paypal-checkout-components/commit/82777ad)), closes [#1989](https://github.com/paypal/paypal-checkout-components/issues/1989)
+
+
+
+## <small>5.0.237 (2022-09-14)</small>
+
+* Inline payment-fields (#1944) ([c380539](https://github.com/paypal/paypal-checkout-components/commit/c380539)), closes [#1944](https://github.com/paypal/paypal-checkout-components/issues/1944)
+
+
+
+## <small>5.0.236 (2022-09-08)</small>
+
+* AcceleratedXO: Change experience name for merchant (#2002) ([6a2c6dd](https://github.com/paypal/paypal-checkout-components/commit/6a2c6dd)), closes [#2002](https://github.com/paypal/paypal-checkout-components/issues/2002)
+
+
+
 ## <small>5.0.235 (2022-08-17)</small>
 
 * Enable smokeHash testing of Checkoutuinodeweb apps through the SDK (#1988) ([ad64456](https://github.com/paypal/paypal-checkout-components/commit/ad64456)), closes [#1988](https://github.com/paypal/paypal-checkout-components/issues/1988)

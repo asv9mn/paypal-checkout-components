@@ -1,15 +1,22 @@
 /* @flow */
 /** @jsx node */
 
-import { node, Style, type ChildType } from '@krakenjs/jsx-pragmatic/src';
-import { ApplePayMark } from '@paypal/sdk-logos/src';
+import { node, Style, type ChildType } from "@krakenjs/jsx-pragmatic/src";
+import {
+  ApplePayMarkExternalImage,
+  ApplePayMarkInlineSVG,
+} from "@paypal/sdk-logos/src";
 
-import css from './style.scoped.scss';
+import css from "./style.scoped.scss";
 
-export function Mark({ ...props } : {||}) : ChildType {
-    return (
-        <Style css={ css }>
-            <ApplePayMark { ...props } />
-        </Style>
-    );
+export function Mark({ ...props }: {||}): ChildType {
+  return (
+    <Style css={css}>
+      {__WEB__ ? (
+        <ApplePayMarkExternalImage {...props} />
+      ) : (
+        <ApplePayMarkInlineSVG {...props} />
+      )}
+    </Style>
+  );
 }

@@ -1,11 +1,11 @@
 /* @flow */
 
-import { JcbLogo } from '@paypal/sdk-logos/src';
+import { JcbLogoInlineSVG, JcbLogoExternalImage } from "@paypal/sdk-logos/src";
 
-import type { CardConfig } from '../../common';
+import type { CardConfig } from "../../common";
 
-export function getJCBConfig() : CardConfig {
-    return {
-        Label: JcbLogo
-    };
+export function getJCBConfig(): CardConfig {
+  return {
+    Label: __WEB__ ? JcbLogoExternalImage : JcbLogoInlineSVG,
+  };
 }
